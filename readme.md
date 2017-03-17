@@ -1,4 +1,8 @@
+gayhomophobe.com maintenance howto:
+
+
 A. SSL - every ~3 months
+===
 
 ssh gayhomophobe@gayhomophobe.com
 cd ~/acme-tiny
@@ -12,6 +16,7 @@ intermediate cert shouldn't require update unless Let's Encrypt has an update
 
 
 B. Twitter monitoring
+===
 
 log in to tweetdeck
 add @gayhomophobe as an account you have team permissions on
@@ -21,14 +26,17 @@ add column for search 'gay homophobe' and 'gayhomophobe.com' to monitor tips & m
 
 
 C. Candidate validation
+===
 
 0. IGNORE party affiliation etc. Must be individualized assessment.
+---
 
 For all steps except #3, set google searches to have time span that ends at least a week BEFORE disclosures. Post-disclosure sources are not reliable.
 
 All steps must be YES to proceed.
 
 1. Do they have significant social or political power?
+---
 
 Yes if:
 * elected official who has power over LGBT issues (e.g. state legislator, mayor or higher)
@@ -41,6 +49,7 @@ No if:
 
 
 2. Did they use that power anti-LGBT?
+---
 
 DO NOT assume this of Republicans; many are just fiscal conservatives. Must have positive individualized confirmation.
 
@@ -59,6 +68,7 @@ This should be unambiguous. Remember to date-limit google searches. Anything pos
 
 
 3. Were they closeted and gay/bi?
+---
 
 This is necessarily a subjective determination. We don't need it to be a jury verdict or admission, but also it has to rise above the level of purely speculative and unsourced.
 
@@ -82,6 +92,7 @@ No if:
 
 
 4. Do they get a rainbow star?
+---
 
 a) Half-star
 
@@ -115,9 +126,11 @@ Requires major pro-LGBT actions - not just reversal of prior stance, but going a
 
 
 
-5. Update website
+D. Update website
+===
 
-a) Decide on win date, summary, and links
+1. Decide on win date, summary, and links
+---
 
 Date will usually be date of publication of reliable source.
 
@@ -126,7 +139,8 @@ Primary link should be a one-stop reliable source for the outing, preferably wit
 Summary should be concise, witty if possible, and link to extra sources iff they are additive. Should generally include both what happened and the reaction (e.g. any admission; consequences like firing, resignation, or legal charges; etc). Secondary links can include eg more background, targeted humor, etc. See existing table for examples.
 
 
-b) Update past winners table
+2. Update past winners table
+---
 
 Copy the current winner section to past winners table. Conform to table style.
 
@@ -135,7 +149,8 @@ Calculate "# days held" based on date of new winner. Add that number front of $d
 Add half or full rainbow star (with styling, see previous entries) if merited. Occasionally there are updates that merit an upgrade.
 
 
-c) Make an image
+3. Make an image
+---
 
 Find a good photo of winner, preferably from their wikipedia, professional profile, or similar source.
 
@@ -143,46 +158,53 @@ Don't use ugly or pejorative photos (eg booking) unless none other available.
 
 Crop to headshot, then resize to 100px height. Variable width is fine.
 
-Make sure new image has go+r permissions.
+Make sure new image has `go+r` permissions.
 
 
-d) Update new winner section
+4. Update new winner section
+---
 
 Use the "came out" or "was caught" text depending on star status of winner. Leave and comment out the opposite text if swapping.
 
 Uncomment or comment stars section depending on status.
 
-Add date of win to the $cur mktime call - 0,0,0,day,month,year
+Add date of win to the `$cur mktime` call - `0,0,0,day,month,year`
 
 Use formal title abbreviation, link to their affiliation (preferably from Wikipedia) in parens after name. Use specific affiliation if available.
 
 
-e) Update RSS
+5. Update RSS
+---
 
 Update lastBuildDate to actual current time
 
 Add item, formatted like the rest, with name (no title / affiliation) and primary link
 
 
-g) Update website
+6. Update website
+---
 
-Double-check new image has go+r permissions. May require ssh'ing in after rsync to chmod it.
+Double-check new image has `go+r` permissions. May require ssh'ing in after rsync to chmod it.
 
-E.g. sync.sh (make local copy outside of repo; should work from another directory):
+E.g. `sync.sh` (make local copy outside of repo; should work from another directory):
 
+```
 git -C ~/path/to//gayhomophobe.com/ add ~/path/to/gayhomophobe.com/
 git -C ~/path/to/gayhomophobe.com/ commit -am "update"
 git -C ~/path/to/gayhomophobe.com/ push
 rsync -vrSzhPc --exclude="- .git" ~/path/to/gayhomophobe.com/ gayhomophobe@gayhomophobe.com:~/gayhomophobe.com
+```
 
 Test website to make sure it works properly - image displayed, previous-winners table looks good, time-since updated, format not broken, etc.
 
 
-e) Post Twitter update
+7. Post Twitter update
+---
 
 See prior updates announcing winners. Link candidate with @ if you verify twitter account is theirs, use formal reference (e.g. Rev. Foo Bar) otherwise.
 
 
-f) Monitor twitter, google alert, etc for reactions, any significant updates, quotables, etc
+8. Monitor twitter, google alert, etc for reactions, any significant updates, quotables, etc
+---
 
-
+Update status if merited. Retract if merited. Twitter-fav amusing references. Consider adding notable or particularly amusing cites to gayhomophobe.com to quotes list.
