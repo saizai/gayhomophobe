@@ -202,7 +202,7 @@ Double-check new image has `go+r` permissions. May require ssh'ing in after rsyn
 E.g. `sync.sh` (make local copy outside of repo; should work from another directory):
 
 ```
-git -C ~/path/to//gayhomophobe.com/ add ~/path/to/gayhomophobe.com/
+git -C ~/path/to/gayhomophobe.com/ add ~/path/to/gayhomophobe.com/
 git -C ~/path/to/gayhomophobe.com/ commit -am "update"
 git -C ~/path/to/gayhomophobe.com/ push
 rsync -vrSzhPc --exclude="- .git" ~/path/to/gayhomophobe.com/ gayhomophobe@gayhomophobe.com:~/gayhomophobe.com
