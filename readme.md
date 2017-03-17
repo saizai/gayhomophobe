@@ -4,11 +4,13 @@ gayhomophobe.com maintenance howto:
 A. SSL - every ~3 months
 ===
 
+```
 ssh gayhomophobe@gayhomophobe.com
 cd ~/acme-tiny
 ./ssl_sign.sh
+```
 
-log in to https://panel.dreamhost.com/index.cgi?tree=domain.secure&
+log in to `https://panel.dreamhost.com/index.cgi?tree=domain.secure&`
 'settings' for gayhomophobe.com
 set certificate signing request, certificate, private key per results of ssl_sign
 intermediate cert shouldn't require update unless Let's Encrypt has an update
