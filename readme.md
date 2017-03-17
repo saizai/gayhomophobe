@@ -142,7 +142,7 @@ Requires major pro-LGBT actions - not just reversal of prior stance, but going a
 D. Update website
 ===
 
-1. Decide on win date, summary, and links
+a) Decide on win date, summary, and links
 ---
 
 Date will usually be date of publication of reliable source.
@@ -152,7 +152,7 @@ Primary link should be a one-stop reliable source for the outing, preferably wit
 Summary should be concise, witty if possible, and link to extra sources iff they are additive. Should generally include both what happened and the reaction (e.g. any admission; consequences like firing, resignation, or legal charges; etc). Secondary links can include eg more background, targeted humor, etc. See existing table for examples.
 
 
-2. Update past winners table
+b) Update past winners table
 ---
 
 Copy the current winner section to past winners table. Conform to table style.
@@ -162,7 +162,7 @@ Calculate "# days held" based on date of new winner. Add that number front of $d
 Add half or full rainbow star (with styling, see previous entries) if merited. Occasionally there are updates that merit an upgrade.
 
 
-3. Make an image
+c) Make an image
 ---
 
 Find a good photo of winner, preferably from their wikipedia, professional profile, or similar source.
@@ -174,7 +174,7 @@ Crop to headshot, then resize to 100px height. Variable width is fine.
 Make sure new image has `go+r` permissions.
 
 
-4. Update new winner section
+d) Update new winner section
 ---
 
 Use the "came out" or "was caught" text depending on star status of winner. Leave and comment out the opposite text if swapping.
@@ -186,7 +186,7 @@ Add date of win to the `$cur mktime` call - `0,0,0,day,month,year`
 Use formal title abbreviation, link to their affiliation (preferably from Wikipedia) in parens after name. Use specific affiliation if available.
 
 
-5. Update RSS
+e) Update RSS
 ---
 
 Update lastBuildDate to actual current time
@@ -194,7 +194,7 @@ Update lastBuildDate to actual current time
 Add item, formatted like the rest, with name (no title / affiliation) and primary link
 
 
-6. Update website
+f) Update website
 ---
 
 Double-check new image has `go+r` permissions. May require ssh'ing in after rsync to chmod it.
@@ -211,13 +211,13 @@ rsync -vrSzhPc --exclude="- .git" ~/path/to/gayhomophobe.com/ gayhomophobe@gayho
 Test website to make sure it works properly - image displayed, previous-winners table looks good, time-since updated, format not broken, etc.
 
 
-7. Post Twitter update
+g) Post Twitter update
 ---
 
 See prior updates announcing winners. Link candidate with @ if you verify twitter account is theirs, use formal reference (e.g. Rev. Foo Bar) otherwise.
 
 
-8. Monitor twitter, google alert, etc for reactions, any significant updates, quotables, etc
+h) Monitor twitter, google alert, etc for reactions, any significant updates, quotables, etc
 ---
 
 Update status if merited. Retract if merited. Twitter-fav amusing references. Consider adding notable or particularly amusing cites to gayhomophobe.com to quotes list.
