@@ -33,7 +33,7 @@ C. Candidate validation
 a) IGNORE party affiliation etc. Must be individualized assessment.
 ---
 
-For all steps except #3, set google searches to have time span that ends at least a week BEFORE disclosures. Post-disclosure sources are not reliable.
+For all steps except gay/bi verification, set google searches to have time span that ends at least a week BEFORE disclosures. Post-disclosure sources are not reliable.
 
 All steps must be YES to proceed.
 
