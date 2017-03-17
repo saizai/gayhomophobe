@@ -157,7 +157,7 @@ b) Update past winners table
 
 Copy the current winner section to past winners table. Conform to table style.
 
-Calculate "# days held" based on date of new winner. Add that number front of $days array (after $cur) and use in the table.
+Calculate "# days held" based on date of new winner. Add that number front of `$days` array (after `$cur`) and use in the table.
 
 Add half or full rainbow star (with styling, see previous entries) if merited. Occasionally there are updates that merit an upgrade.
 
