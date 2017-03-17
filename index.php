@@ -155,7 +155,6 @@
     						<th scope="col">Name</th>
     						<th scope="col">Date</th>
     						<th scope="col">Days held:</th>
-    						<!-- list for convenience (recent first): 52, 39, 369, 166, 143, 57, 60, 107, 188, 12, 23, 43, 1, 60, 65, 26, 4, 13, 17, 133, 191, 26, 113, 56, 534, 317, 10, 94, 46, 220, 35, 509, 223, 25 -->
     						<th scope="col" class="reason">Reaction to outing</th>
     					</tr>
     				</thead>
