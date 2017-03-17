@@ -1,0 +1,10 @@
+RewriteEngine on
+RewriteCond %{HTTP_USER_AGENT} !FeedBurner
+RewriteRule rss$ http://feeds.feedburner.com/GayHomophobe [R,L]
+
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+RewriteCond %{HTTP_HOST} ^www\.
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+

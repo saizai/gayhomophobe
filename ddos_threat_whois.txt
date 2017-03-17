@@ -1,0 +1,60 @@
+Domain Name: TURTLE.ORG
+Domain ID: D2168393-LROR
+WHOIS Server:
+Referral URL: http://www.networksolutions.com
+Updated Date: 2016-05-24T16:17:52Z
+Creation Date: 1998-04-14T04:00:00Z
+Registry Expiry Date: 2017-04-13T04:00:00Z
+Sponsoring Registrar: Network Solutions, LLC
+Sponsoring Registrar IANA ID: 2
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant ID: 33474569-NSI
+Registrant Name: Tim Reid
+Registrant Organization: High Jumper, LLC
+Registrant Street: 7515 SHELDON RD UNIT 32101
+Registrant Street: Unit 32101
+Registrant City: Elk Grove
+Registrant State/Province: CA
+Registrant Postal Code: 95758-7293
+Registrant Country: US
+Registrant Phone: +1.9167985271
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: tim@highjumper.com
+Admin ID: 33474569-NSI
+Admin Name: Tim Reid
+Admin Organization: High Jumper, LLC
+Admin Street: 7515 SHELDON RD UNIT 32101
+Admin Street: Unit 32101
+Admin City: Elk Grove
+Admin State/Province: CA
+Admin Postal Code: 95758-7293
+Admin Country: US
+Admin Phone: +1.9167985271
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: tim@highjumper.com
+Tech ID: 33474569-NSI
+Tech Name: Tim Reid
+Tech Organization: High Jumper, LLC
+Tech Street: 7515 SHELDON RD UNIT 32101
+Tech Street: Unit 32101
+Tech City: Elk Grove
+Tech State/Province: CA
+Tech Postal Code: 95758-7293
+Tech Country: US
+Tech Phone: +1.9167985271
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: tim@highjumper.com
+Name Server: NS13.WORLDNIC.COM
+Name Server: NS14.WORLDNIC.COM
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2016-07-08T22:24:15Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to(a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.

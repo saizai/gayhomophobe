@@ -1,0 +1,22 @@
+
+; <<>> DiG 9.8.3-P1 <<>> any turtle.org
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 43775
+;; flags: qr rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;turtle.org.			IN	ANY
+
+;; ANSWER SECTION:
+turtle.org.		7178	IN	NS	ns14.worldnic.com.
+turtle.org.		7178	IN	NS	ns13.worldnic.com.
+turtle.org.		7178	IN	SOA	ns13.worldnic.com. namehost.worldnic.com. 116070216 10800 3600 604800 3600
+turtle.org.		7178	IN	A	208.91.197.27
+turtle.org.		3578	IN	MX	10 p.webcom.ctmail.com.
+
+;; Query time: 146 msec
+;; SERVER: 46.246.46.46#53(46.246.46.46)
+;; WHEN: Sun Jul 10 14:14:40 2016
+;; MSG SIZE  rcvd: 171
+
