@@ -60,6 +60,8 @@ c) Did they use that power anti-LGBT?
 
 DO NOT assume this of Republicans; many are just fiscal conservatives. Must have positive individualized confirmation.
 
+https://ballotpedia.org is a good tool. It links to various orgs' ratings, which have per-bill breakdowns. Find ones about LGBT issues and see how they voted. Verify that if possible, but if yes it's definitive.
+
 Yes if:
 
 * personally voted anti-LGBT
