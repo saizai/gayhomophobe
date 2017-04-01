@@ -115,21 +115,20 @@
 		<div id="container">
 			<div id="current">
                 <?php
-                    $cur = floor((time() - mktime(0,0,0, 7, 27, 2015)) / (60*60*24));
+                    $cur = floor((time() - mktime(0,0,0, 3, 16, 2017)) / (60*60*24));
                     $days = array($cur, 52, 39, 369, 166, 143, 57, 60, 107, 188, 12, 23, 43, 1, 60, 65, 26, 4, 13, 17, 133, 191, 26, 113, 56, 534, 317, 10, 94, 46, 220, 35, 509, 223, 25);
                     $avg = floor(array_sum($days) / count($days));
                 ?>
 				<p>
-				  # days since the last prominent homophobe came out pro-gay: <!-- was caught in a gay sex scandal: -->
+				  # days since the last prominent homophobe <!-- came out pro-gay: --> was caught in a gay sex scandal:
 				  <div id="days"><?= $cur ?></div>
 				</p>
 				<p>Latest winner:
-                    <img src="kevin_kanouse.jpg" />
-                    Bp. <a href="http://www.huffingtonpost.com/entry/lutheran-bishop-comes-out-as-gay-after_55b6637ce4b0074ba5a54ac5">Kevin Kanouse</a> (<a href="http://www.elca.org/">ELCA</a>), July 27, 2015
+                    <img src="ralph_shortey.png" />
+					State Sen. <a href="http://kfor.com/2017/03/16/oklahoma-state-senator-ralph-shortey-turns-himself-in-after-being-charged-with-engaging-in-child-prostitution/">Ralph Shortey</a> <a href="https://en.wikipedia.org/wiki/Oklahoma_Republican_Party">(R)</a>, March 16, 2017
 				</p>
 				<p>
-		           <a href="#stars"><img src="rainbow_star.jpg" /></a>
-                   <a href="https://ntnl.org/bp-kanouses-letter-from-july-18-2015/">came out</a> voluntarily to <a href="https://ntnl.org/why-now-why-the-youth-gathering/">Evangelical Youth Gathering</a>
+                   Charged with three <a href="https://localtvkfor.files.wordpress.com/2017/03/17-08441-redacted-report.pdf">felonies</a> for engaging in sex with a teenaged male prostitute, <a href="http://newsok.com/article/5542642">resigned</a> after being suspended</a>
 				</p>
 			</div><!-- current -->
 
@@ -159,6 +158,13 @@
     					</tr>
     				</thead>
     				<tbody>
+					    <tr>
+                            <td><img src="kevin_kanouse.png" /></td>
+							<td>Bp. <a href="http://www.huffingtonpost.com/entry/lutheran-bishop-comes-out-as-gay-after_55b6637ce4b0074ba5a54ac5">Kevin Kanouse</a> (<a href="http://www.elca.org/">ELCA</a>)</td>
+                            <td> July 27, 2015</td>
+                            <td>598</td>
+                            <td class="reason"><a href="#stars"><img src="rainbow_star.jpg" /></a><a href="https://ntnl.org/bp-kanouses-letter-from-july-18-2015/">came out</a> voluntarily to <a href="https://ntnl.org/why-now-why-the-youth-gathering/">Evangelical Youth Gathering</a></td>
+                        </tr>
                         <tr>
                             <td><img src="dennis_hastert.jpg" /></td>
                             <td>Rep. <a href="https://gma.yahoo.com/exclusive-alleged-dennis-hastert-sex-abuse-victim-named-104016079--abc-news-topstories.html">Dennis Hastert</a> (<a href="https://secure.wikimedia.org/wikipedia/en/wiki/Republican_Party_(United_States)">R</a>)</td>
