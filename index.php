@@ -125,13 +125,13 @@
 				</p>
 				<p>Latest winner:
                     <img src="ralph_shortey.png" />
-					State Sen. <a href="http://kfor.com/2017/03/16/oklahoma-state-senator-ralph-shortey-turns-himself-in-after-being-charged-with-engaging-in-child-prostitution/">Ralph Shortey</a> <a href="https://en.wikipedia.org/wiki/Oklahoma_Republican_Party">(R)</a>, March 16, 2017
+					State Sen. <a href="http://kfor.com/2017/03/16/oklahoma-state-senator-ralph-shortey-turns-himself-in-after-being-charged-with-engaging-in-child-prostitution/">Ralph Shortey</a> (<a href="https://en.wikipedia.org/wiki/Oklahoma_Republican_Party">R</a>), March 16, 2017
 				</p>
 				<p>
-                   Charged with three <a href="https://localtvkfor.files.wordpress.com/2017/03/17-08441-redacted-report.pdf">felonies</a> for engaging in sex with a teenaged male prostitute, <a href="http://newsok.com/article/5542642">resigned</a> after being suspended</a>
+                   Charged with three <a href="https://localtvkfor.files.wordpress.com/2017/03/17-08441-redacted-report.pdf">felonies</a> for soliciting a teenaged male prostitute, <a href="http://newsok.com/article/5542642">resigned</a> after being <a href="http://webserver1.lsb.state.ok.us/cf_pdf/2017-18%20INT/SRES/SR7%20INT.PDF">suspended</a>
 				</p>
-			</div><!-- current -->
-
+			</div><!-- current -->			
+			
     		<div class="skyscraper_ad">
     			<script type="text/javascript"><!--
     			google_ad_client = "ca-pub-3232348362385328";
