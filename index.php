@@ -115,8 +115,8 @@
 		<div id="container">
 			<div id="current">
                 <?php
-                    $cur = floor((time() - mktime(0,0,0, 3, 16, 2017)) / (60*60*24));
-                    $days = array($cur, 52, 39, 369, 166, 143, 57, 60, 107, 188, 12, 23, 43, 1, 60, 65, 26, 4, 13, 17, 133, 191, 26, 113, 56, 534, 317, 10, 94, 46, 220, 35, 509, 223, 25);
+                    $cur = floor((time() - mktime(0,0,0, 3, 9, 2018)) / (60*60*24));
+                    $days = array($cur, 358, 52, 39, 369, 166, 143, 57, 60, 107, 188, 12, 23, 43, 1, 60, 65, 26, 4, 13, 17, 133, 191, 26, 113, 56, 534, 317, 10, 94, 46, 220, 35, 509, 223, 25);
                     $avg = floor(array_sum($days) / count($days));
                 ?>
 				<p>
@@ -124,14 +124,14 @@
 				  <div id="days"><?= $cur ?></div>
 				</p>
 				<p>Latest winner:
-                    <img src="ralph_shortey.png" />
-					State Sen. <a href="http://kfor.com/2017/03/16/oklahoma-state-senator-ralph-shortey-turns-himself-in-after-being-charged-with-engaging-in-child-prostitution/">Ralph Shortey</a> (<a href="https://en.wikipedia.org/wiki/Oklahoma_Republican_Party">R</a>), March 16, 2017
+                    <!-- <img src="melvyn_iscove.png" /> -->
+					Dr. <a href="https://www.thestar.com/news/gta/2018/03/09/psychiatrist-who-treated-patients-for-their-homosexuality-had-sex-with-male-patients-in-his-office.html">Melvyn Iscove</a>, March 9, 2018
 				</p>
 				<p>
-                   Charged with three <a href="https://localtvkfor.files.wordpress.com/2017/03/17-08441-redacted-report.pdf">felonies</a> for soliciting a teenaged male prostitute, <a href="http://newsok.com/article/5542642">resigned</a> after being <a href="http://webserver1.lsb.state.ok.us/cf_pdf/2017-18%20INT/SRES/SR7%20INT.PDF">suspended</a>
+                   "Gay conversion" therapist <a href="http://www.cpso.on.ca/DoctorDetails/Melvyn-Lawrence-Iscove/0020779-25567">suspended</a> (pending penalty hearing) for <a href="melvyn_iscove_finding.pdf">sexually abusing his patients</a>. Denies charges through lawyer.
 				</p>
-			</div><!-- current -->			
-			
+			</div><!-- current -->
+
     		<div class="skyscraper_ad">
     			<script type="text/javascript"><!--
     			google_ad_client = "ca-pub-3232348362385328";
@@ -146,7 +146,7 @@
     		</div><!-- ad on previous table - right skyscrpaer -->
 
     		<div id="previous">
-    			<h2>34 previous winners <span style="font-size: 0.8em;">(avg days held: <?= $avg ?>)</span></h2>
+    			<h2>35 previous winners <span style="font-size: 0.8em;">(avg days held: <?= $avg ?>)</span></h2>
     			<table>
     				<thead>
     					<tr>
@@ -158,10 +158,17 @@
     					</tr>
     				</thead>
     				<tbody>
+                        <tr>
+                            <td><img src="ralph_shortey.png" /></td>
+                            <td>OK Sen. <a href="http://kfor.com/2017/03/16/oklahoma-state-senator-ralph-shortey-turns-himself-in-after-being-charged-with-engaging-in-child-prostitution/">Ralph Shortey</a> (<a href="https://en.wikipedia.org/wiki/Oklahoma_Republican_Party">R</a>)</td>
+                            <td>March 16, 2017</td>
+                            <td>358</td>
+                            <td>Charged with three <a href="https://localtvkfor.files.wordpress.com/2017/03/17-08441-redacted-report.pdf">felonies</a> for soliciting a teenaged male prostitute, <a href="http://newsok.com/article/5542642">resigned</a> after being <a href="http://webserver1.lsb.state.ok.us/cf_pdf/2017-18%20INT/SRES/SR7%20INT.PDF">suspended</a></td>
+                        </tr>
 					    <tr>
                             <td><img src="kevin_kanouse.png" /></td>
 							<td>Bp. <a href="http://www.huffingtonpost.com/entry/lutheran-bishop-comes-out-as-gay-after_55b6637ce4b0074ba5a54ac5">Kevin Kanouse</a> (<a href="http://www.elca.org/">ELCA</a>)</td>
-                            <td> July 27, 2015</td>
+                            <td>July 27, 2015</td>
                             <td>598</td>
                             <td class="reason"><a href="#stars"><img src="rainbow_star.jpg" /></a><a href="https://ntnl.org/bp-kanouses-letter-from-july-18-2015/">came out</a> voluntarily to <a href="https://ntnl.org/why-now-why-the-youth-gathering/">Evangelical Youth Gathering</a></td>
                         </tr>
@@ -229,7 +236,7 @@
     						<td>May 2, 2012</td>
     						<td>188</td>
     						<td class="reason"><a href="#stars"><img src="rainbow_star.jpg" style="float:left;"/></a>
-    							<a href="http://www.youtube.com/watch?v=k4koieDcoXE">came out</a> voluntarily to <a href="http://www.progressmissouri.org/rep-zach-wyatt-r-kirksville-hb2051">oppose</a> "Don't Say Gay" bill; in office until 2013, withdrew from reelction to study marine biology</td>
+    							<a href="http://www.youtube.com/watch?v=k4koieDcoXE">came out</a> voluntarily to <a href="http://www.progressmissouri.org/rep-zach-wyatt-r-kirksville-hb2051">oppose</a> "Don't Say Gay" bill; in office until 2013, withdrew from re-election to study marine biology</td>
     					</tr>
     					<tr>
     						<td><img src="jeremy_marks.jpg"/></td>
