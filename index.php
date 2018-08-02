@@ -403,7 +403,8 @@
     				</tbody>
     			</table>
     		</div><!-- previous -->
-
+        </div>
+        <div>
     		<div id="stars">
     			<p><img src="half_star.png"/> at least admitted it, or came out voluntarily</p>
     			<p><img src="rainbow_star.jpg"/> did a 180° change and started supporting gay rights after coming out</p>
