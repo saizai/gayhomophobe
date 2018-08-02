@@ -16,7 +16,6 @@
 			#quotes{margin-top: 1em;}
 			/* .timeline { font-size: 0.8em;  } */
 			/* #previous{font-size: 0.7em;} */
-			.skyscraper_ad { float: right; width: 160px; height: 600px; margin-top: 150px; }
 			.col2 { margin: auto; }
 			.col2 > span {text-align: left; float: left; width:45%; padding: 0 1%; max-width: 45%;}
 			.col2:after {
@@ -130,20 +129,6 @@
 				<p>
                    "Gay conversion" therapist <a href="http://www.cpso.on.ca/DoctorDetails/Melvyn-Lawrence-Iscove/0020779-25567">suspended</a> (pending penalty hearing) for <a href="melvyn_iscove_finding.pdf">sexually abusing his patients</a>. Denies charges through lawyer.
 				</p>
-			</div><!-- current -->
-
-    		<div class="skyscraper_ad">
-    			<script type="text/javascript"><!--
-    			google_ad_client = "ca-pub-3232348362385328";
-    			/* GH right */
-    			google_ad_slot = "1312154078";
-    			google_ad_width = 160;
-    			google_ad_height = 600;
-    			//--></script>
-    			<script type="text/javascript"
-    			src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
-    			</script>
-    		</div><!-- ad on previous table - right skyscrpaer -->
 
     		<div id="previous">
     			<h2>35 previous winners <span style="font-size: 0.8em;">(avg days held: <?= $avg ?>)</span></h2>
@@ -441,8 +426,7 @@
                     </span>
                     <span>
         				<p><a href="http://www.truthwinsout.org/donate"><img src="truthwinsout.gif" alt="Truth Wins Out" height="32"/></a> is an organization fighting the ex-gay bullshit espoused by so many homophobic closet cases in power.</p>
-        				<p>This site makes money only from ads. 100% of net proceeds are donated to Truth Wins Out.</p>
-        				<p>You should consider <a href="http://www.truthwinsout.org/donate">giving them a donation</a> yourself.</p>
+        				<p>You should consider <a href="http://www.truthwinsout.org/donate">giving them a donation</a>.</p>
                     </span>
     		</div><!-- stars -->
 
@@ -464,7 +448,7 @@
 			<span>
 				<p>Yes, most of them are probably bi, not gay, but "biorgaypeoplewhosupportrevocationofgayrights.com" isn't quite as quippy. ;-)</p>
 
-				<p>In October 2011, we <a href="http://www.truthwinsout.org/news/2011/10/19404/">donated over $1500 to TWO</a>, and in May 2012 we donated over $400 more. (Thanks, <a href="https://plus.google.com/114958356461289458353/about">Lee</a>, for your help!)</p>
+				<p>We <a href="http://www.truthwinsout.org/news/2011/10/19404/">donated about $1900 to TWO</a>, from ad revenue. (Thanks, <a href="https://plus.google.com/114958356461289458353/about">Lee</a>, for your help!) Ads have since been removed.</p>
 
     			<p><a rel="license" href="http://creativecommons.org/publicdomain/zero/1.0/"><img alt="CC0 - no rights reserved" style="border-width:0" src="/cc-0.png" /></a>
     			Site maintained by <a href="http://twitter.com/gayhomophobe">@gayhomophobe</a>; please contact with info if an update is needed.</p>
@@ -488,19 +472,6 @@
         		</ul>
             </span>
         </div><!-- quotes -->
-
-		<script type="text/javascript"><!--
-			google_ad_client = "ca-pub-3232348362385328";
-			/* GH bottom */
-			google_ad_slot = "1658264849";
-			google_ad_width = 728;
-			google_ad_height = 90;
-		//--></script>
-		<script type="text/javascript"
-			src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
-		</script>
-
-		<div style="width: 728px; margin: auto;">Recently, anti-gay campaigns have been purchasing ads on my site. Their ads cost them money each time they're clicked. The money I raise from ads gets donated to TWO.</div>
 
 <br/><br/>
 <h4>Some comments…</h4>
