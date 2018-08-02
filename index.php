@@ -129,6 +129,7 @@
 				<p>
                    "Gay conversion" therapist <a href="http://www.cpso.on.ca/DoctorDetails/Melvyn-Lawrence-Iscove/0020779-25567">suspended</a> (pending penalty hearing) for <a href="melvyn_iscove_finding.pdf">sexually abusing his patients</a>. Denies charges through lawyer.
 				</p>
+            </div><!-- current -->
 
     		<div id="previous">
     			<h2>35 previous winners <span style="font-size: 0.8em;">(avg days held: <?= $avg ?>)</span></h2>
@@ -403,8 +404,6 @@
     				</tbody>
     			</table>
     		</div><!-- previous -->
-        </div>
-        <div>
     		<div id="stars">
     			<p><img src="half_star.png"/> at least admitted it, or came out voluntarily</p>
     			<p><img src="rainbow_star.jpg"/> did a 180° change and started supporting gay rights after coming out</p>
