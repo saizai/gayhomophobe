@@ -114,8 +114,8 @@
 		<div id="container">
 			<div id="current">
                 <?php
-                    $cur = floor((time() - mktime(0,0,0, 3, 9, 2018)) / (60*60*24));
-                    $days = array($cur, 358, 52, 39, 369, 166, 143, 57, 60, 107, 188, 12, 23, 43, 1, 60, 65, 26, 4, 13, 17, 133, 191, 26, 113, 56, 534, 317, 10, 94, 46, 220, 35, 509, 223, 25);
+                    $cur = floor((time() - mktime(0,0,0, 2, 11, 2018)) / (60*60*24));
+                    $days = array($cur, 238, 358, 52, 39, 369, 166, 143, 57, 60, 107, 188, 12, 23, 43, 1, 60, 65, 26, 4, 13, 17, 133, 191, 26, 113, 56, 534, 317, 10, 94, 46, 220, 35, 509, 223, 25);
                     $avg = floor(array_sum($days) / count($days));
                 ?>
 				<p>
@@ -123,16 +123,16 @@
 				  <div id="days"><?= $cur ?></div>
 				</p>
 				<p>Latest winner:
-                    <!-- <img src="melvyn_iscove.png" /> -->
-					Dr. <a href="https://www.thestar.com/news/gta/2018/03/09/psychiatrist-who-treated-patients-for-their-homosexuality-had-sex-with-male-patients-in-his-office.html">Melvyn Iscove</a>, March 9, 2018
+                    <img src="norman_goldwasser.jpg" />
+					Dr. <a href="https://truthwinsout.org/news/2018/11/41044/">Norman Goldwasser</a>, Nov. 2, 2018
 				</p>
 				<p>
-                   "Gay conversion" therapist <a href="http://www.cpso.on.ca/DoctorDetails/Melvyn-Lawrence-Iscove/0020779-25567">suspended</a> (pending penalty hearing) for <a href="melvyn_iscove_finding.pdf">sexually abusing his patients</a>. Denies charges through lawyer.
+                   "Gay conversion" <a href="https://about.me/normangoldwasser">therapist</a>, <a href="https://www.nbcnews.com/feature/nbc-out/ex-gay-therapist-allegedly-found-soliciting-hookups-gay-dating-apps-n931726">"unable to help [him]self"</a> from Manhunt hookups.
 				</p>
             </div><!-- current -->
 
     		<div id="previous">
-    			<h2>35 previous winners <span style="font-size: 0.8em;">(avg days held: <?= $avg ?>)</span></h2>
+    			<h2>36 previous winners <span style="font-size: 0.8em;">(avg days held: <?= $avg ?>)</span></h2>
     			<table>
     				<thead>
     					<tr>
@@ -144,6 +144,14 @@
     					</tr>
     				</thead>
     				<tbody>
+
+        				<tr>
+                            <td><!-- no photo available --></td>
+                            <td>Dr. <a href="https://www.thestar.com/news/gta/2018/03/09/psychiatrist-who-treated-patients-for-their-homosexuality-had-sex-with-male-patients-in-his-office.html">Melvyn Iscove</a></td>
+                            <td>March 9, 2018</td>
+                            <td>238</td>
+                            <td>"Gay conversion" therapist <a href="http://www.cpso.on.ca/DoctorDetails/Melvyn-Lawrence-Iscove/0020779-25567">suspended</a> (pending penalty hearing) for <a href="melvyn_iscove_finding.pdf">sexually abusing his patients</a>. Denies charges through lawyer.</td>
+        				</tr>
                         <tr>
                             <td><img src="ralph_shortey.png" /></td>
                             <td>OK. Sen. <a href="http://kfor.com/2017/03/16/oklahoma-state-senator-ralph-shortey-turns-himself-in-after-being-charged-with-engaging-in-child-prostitution/">Ralph Shortey</a> (<a href="https://en.wikipedia.org/wiki/Oklahoma_Republican_Party">R</a>)</td>
