@@ -127,6 +127,7 @@
 					Dr. <a href="https://truthwinsout.org/news/2018/11/41044/">Norman Goldwasser</a>, Nov. 2, 2018
 				</p>
 				<p>
+                    <a href="#stars"><img src="half_star.png" /></a>
                    "Gay conversion" <a href="https://about.me/normangoldwasser">therapist</a>, <a href="https://www.nbcnews.com/feature/nbc-out/ex-gay-therapist-allegedly-found-soliciting-hookups-gay-dating-apps-n931726">"unable to help [him]self"</a> from Manhunt hookups.
 				</p>
             </div><!-- current -->
