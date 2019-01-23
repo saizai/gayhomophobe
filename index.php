@@ -124,7 +124,7 @@
 				</p>
 				<p>Latest winner:
 					<img src="david_matheson.jpg"/>
-					<a href="https://truthwinsout.org/pressrelease/2019/01/41364/">David Matheson</a> (LDS), Jan. 20, 2019
+					<a href="https://truthwinsout.org/pressrelease/2019/01/41364/">David Matheson</a> (<a href="https://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints">LDS</a>), Jan. 20, 2019
 				</p>
 				<p>
 					<a href="#stars"><img src="half_star.png" /></a>
