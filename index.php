@@ -114,25 +114,24 @@
 		<div id="container">
 			<div id="current">
                 <?php
-                    $cur = floor((time() - mktime(0,0,0, 11, 2, 2018)) / (60*60*24));
-                    $days = array($cur, 238, 358, 52, 39, 369, 166, 143, 57, 60, 107, 188, 12, 23, 43, 1, 60, 65, 26, 4, 13, 17, 133, 191, 26, 113, 56, 534, 317, 10, 94, 46, 220, 35, 509, 223, 25);
+                    $cur = floor((time() - mktime(0,0,0, 1, 20, 2019)) / (60*60*24));
+                    $days = array($cur, 1, 78, 238, 358, 52, 39, 369, 166, 143, 57, 60, 107, 188, 12, 23, 43, 1, 60, 65, 26, 4, 13, 17, 133, 191, 26, 113, 56, 534, 317, 10, 94, 46, 220, 35, 509, 223, 25);
                     $avg = floor(array_sum($days) / count($days));
                 ?>
 				<p>
-				  # days since the last prominent homophobe <!-- came out pro-gay: --> was caught in a gay sex scandal:
+ 					# days since the last prominent homophobe <!-- came out pro-gay: --> was caught in a gay sex scandal:
 				  <div id="days"><?= $cur ?></div>
 				</p>
 				<p>Latest winner:
-                    <img src="norman_goldwasser.jpg" />
-					Dr. <a href="https://truthwinsout.org/news/2018/11/41044/">Norman Goldwasser</a>, Nov. 2, 2018
+					<img src="david_matheson.jpg"/>
+					<a href="https://truthwinsout.org/pressrelease/2019/01/41364/">David Matheson</a> (LDS), Jan. 20, 2019
 				</p>
 				<p>
-                    <a href="#stars"><img src="half_star.png" /></a>
-                   "Gay conversion" <a href="https://about.me/normangoldwasser">therapist</a>, <a href="https://www.nbcnews.com/feature/nbc-out/ex-gay-therapist-allegedly-found-soliciting-hookups-gay-dating-apps-n931726">"unable to help [him]self"</a> from Manhunt hookups.
+					<a href="#stars"><img src="half_star.png" /></a>
+					Mormon "gay conversion" <a href="https://reconciliationandgrowth.org/about/#matheson">therapist</a> came out as ex-ex-gay but pro-ex-gay
 				</p>
-            </div><!-- current -->
-
-    		<div id="previous">
+			</div><!-- current -->
+    	<div id="previous">
     			<h2>36 previous winners <span style="font-size: 0.8em;">(avg days held: <?= $avg ?>)</span></h2>
     			<table>
     				<thead>
@@ -145,7 +144,23 @@
     					</tr>
     				</thead>
     				<tbody>
-
+							
+							</p>
+									<tr>
+										<td><img src="ernest_angley.jpg" /></td>
+										<td>Rev. <a href="https://www.ohio.com/news/20190121/split-with-ernest-angley-tough-for-his-assistant">Ernest Angley</a></td>
+										<td>Jan. 19, 2019</td>
+										<td>1</td>
+										<td class="reason">Anti-gay, pro-vasectomy televanteglist <a href="https://www.ohio.com/news/20190119/rev-ernest-angley-admitted-sexual-encounter">admitted</a> mutual masturbation (but "didn't make him cum") in <a href="https://omny.fm/shows/rep-audio-vault/graphic-audio-rev-ernest-angley-admits-to-1996-inc">recorded</a> phone call; also subject of current <a href="https://clerkefile.summitoh.net/CaseDetail.aspx?CasID=772341">lawsuit</a> by former employee alleging sexual abuse (<a href="https://clerkefile.summitoh.net/DOCUMENTS/sumzzza7000011D0.pdf">complaint</a> &amp; <a href="https://clerkefile.summitoh.net/DOCUMENTS/sumzzzd000000ADD.pdf">answer</a>), with counter-claim by Angley for defamation (<a href="https://clerkefile.summitoh.net/DOCUMENTS/sumzzzd900001718.pdf">counterclaim</a> &amp; <a href="https://clerkefile.summitoh.net/DOCUMENTS/sumzzze300000E1E.pdf">counterclaim</a>); trial scheduled for Nov. 4, 2019</td>
+									</tr>
+									<tr>
+										<td><img src="norman_goldwasser.jpg" /></td>
+										<td>Dr. <a href="https://truthwinsout.org/news/2018/11/41044/">Norman Goldwasser</a></td>
+										<td>Nov. 2, 2018</td>
+										<td>78</td>
+										<td class="reason"><a href="#stars"><img src="half_star.png" /></a>
+									 "Gay conversion" <a href="https://about.me/normangoldwasser">therapist</a>, <a href="https://www.nbcnews.com/feature/nbc-out/ex-gay-therapist-allegedly-found-soliciting-hookups-gay-dating-apps-n931726">"unable to help [him]self"</a> from Manhunt hookups.</td>
+								 </tr>
         				<tr>
                             <td><!-- no photo available --></td>
                             <td>Dr. <a href="https://www.thestar.com/news/gta/2018/03/09/psychiatrist-who-treated-patients-for-their-homosexuality-had-sex-with-male-patients-in-his-office.html">Melvyn Iscove</a></td>
@@ -165,7 +180,7 @@
 							<td>Bp. <a href="http://www.huffingtonpost.com/entry/lutheran-bishop-comes-out-as-gay-after_55b6637ce4b0074ba5a54ac5">Kevin Kanouse</a> (<a href="http://www.elca.org/">ELCA</a>)</td>
                             <td>July 27, 2015</td>
                             <td>598</td>
-                            <td class="reason"><a href="#stars"><img src="rainbow_star.jpg" /></a><a href="https://ntnl.org/bp-kanouses-letter-from-july-18-2015/">came out</a> voluntarily to <a href="https://ntnl.org/why-now-why-the-youth-gathering/">Evangelical Youth Gathering</a></td>
+                            <td class="reason"><a href="#stars"><img src="rainbow_star.jpg" /></a><a href="https://web.archive.org/web/20150812220738/https://ntnl.org/bp-kanouses-letter-from-july-18-2015/">came out</a> voluntarily to <a href="https://web.archive.org/web/20150814011258/https://ntnl.org/why-now-why-the-youth-gathering/">Evangelical Youth Gathering</a></td>
                         </tr>
                         <tr>
                             <td><img src="dennis_hastert.jpg" /></td>
