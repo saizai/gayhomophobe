@@ -25,8 +25,7 @@
 					clear: both;
 					visibility: hidden;
 			}
-
-						.at_flat_counter { max-height: 32px; }
+			.at_flat_counter { max-height: 32px; }
 
 			table {
 				margin: auto;
@@ -48,65 +47,65 @@
 			ul { list-style: none; margin: 0 0 1ex 0; padding: 0; }
 			ul li { list-style: none; margin: 0 0 0.5ex; padding: 0; }
 
-						#links {position: absolute; right: 10px; top: 10px; margin-right: 10px;}
-						/* https://gist.github.com/thebigreason/1296097 */
-						/* This gets Google to fall into place */
-						.social {
-							font-size: 1px;
-						}
+			#links {position: absolute; right: 10px; top: 10px; margin-right: 10px;}
+			/* https://gist.github.com/thebigreason/1296097 */
+			/* This gets Google to fall into place */
+			.social {
+				font-size: 1px;
+			}
 
-						/* This gets Facebook to fall into place */
-						.social iframe {
-							vertical-align: middle;
-						}
+			/* This gets Facebook to fall into place */
+			.social iframe {
+				vertical-align: middle;
+			}
 
-						/* Set an optional width for your button wrappers */
-						.social span {
-							display: inline-block;
-							width: 110px;
-						}
+			/* Set an optional width for your button wrappers */
+			.social span {
+				display: inline-block;
+				width: 110px;
+			}
 
-						/* Adjust the widths individually if you like */
-						.social .google {
-							width: 75px;
-						}
+			/* Adjust the widths individually if you like */
+			.social .google {
+				width: 75px;
+			}
 
-						.clear {
-								clear: both;
-								height: 0;
-								overflow: hidden;
-						}
+			.clear {
+					clear: both;
+					height: 0;
+					overflow: hidden;
+			}
 		</style>
 		<script type="text/javascript">
-						window.google_analytics_uacct = "UA-386408-11";
-						(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-								(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-								m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-								})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			window.google_analytics_uacct = "UA-386408-11";
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+					(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+					m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+					})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-						ga('create', 'UA-386408-11', 'gayhomophobe.com');
-						ga('require', 'linkid', 'linkid.js');
-						ga('send', 'pageview');
+			ga('create', 'UA-386408-11', 'gayhomophobe.com');
+			ga('require', 'linkid', 'linkid.js');
+			ga('send', 'pageview');
 
-						var addthis_config = {
-								ui_508_compliant: true,
-								"data_track_clickback": true,
-								data_ga_tracker: pageTracker,
-								services_exclude: 'print'
-						};
+			var addthis_config = {
+					ui_508_compliant: true,
+					"data_track_clickback": true,
+					data_ga_tracker: pageTracker,
+					services_exclude: 'print'
+			};
 
-						var addthis_share =
-						{
-								url: "http://gayhomophobe.com",
-								title: "@gayhomophobe - # days since the last prominent homophobe was caught in a gay sex scandal"  // came out pro-gay
-						}
+			var addthis_share =
+			{
+					url: "http://gayhomophobe.com",
+					title: "@gayhomophobe - # days since the last prominent homophobe was caught in a gay sex scandal"  // came out pro-gay
+			}
 		</script>
 	</head>
 	<body>
 		<div>
-				<div class="addthis_responsive_sharing"></div>
-				<div class="addthis_sharing_toolbox"></div>
-				<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js" async="async"></script>
+			<div class="addthis_responsive_sharing"></div>
+			<div class="addthis_sharing_toolbox"></div>
+			<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js" async="async"></script>
 		</div><!-- links -->
 		<div class="clear"></div>
 		<div id="container">
@@ -122,7 +121,7 @@
 				</p>
 					
 				<p>Latest winner:
-					<img src="jozsef_szajer.png" />
+					<img src="jozsef_szajer2.jpg" />
 					MEP <a href="https://telex.hu/kulfold/2020/12/01/brusszel-szex-kepviselo">József Szàjer</a> (<a href="https://en.wikipedia.org/wiki/Fidesz">Fidesz</a>), Dec. 1, 2020
 				</p>
 				<p>
