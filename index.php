@@ -126,7 +126,7 @@
 				</p>
 				<p>
 					<!-- <a href="#stars"><img src="rainbow_star.jpg" /></a>  <img src="half_star.png" /> -->
-					far-right party cofounder, who <A href="https://www.euractiv.com/section/future-eu/news/hungary-s-new-constitution-family-friendly-hostile-to-gays/">wrote anti-LGBT amendment</a> to Hungarian constitution, <a href="https://szajer.fidesz-eu.hu/hu/szajer-jozsef-nyilatkozata-statement-of-szajer-jozsef/">resigned</a> for violating COVID-19 lockdown after police <a href="https://www.hln.be/brussel/hongaars-europarlementslid-59-neemt-ontslag-na-aanwezigheid-op-seksfeestje-in-brussel~ab43ad0f/">caught him</a> fleeing from sex party at gay bar, carrying drugs &mdash; 5 years after he <a href="https://vs.hu/kozelet/osszes/ketmilliot-fizethet-a-kocsis-matet-melegnek-nevezo-ungar-klara-1030">won</a> an anti-defamation lawsuit for being called gay
+					far-right party cofounder, who <A href="https://www.euractiv.com/section/future-eu/news/hungary-s-new-constitution-family-friendly-hostile-to-gays/">wrote anti-LGBT amendment</a> to Hungarian constitution, <a href="https://szajer.fidesz-eu.hu/hu/szajer-jozsef-nyilatkozata-statement-of-szajer-jozsef/">resigned</a> for violating COVID-19 lockdown after police <a href="https://www.hln.be/brussel/hongaars-europarlementslid-59-neemt-ontslag-na-aanwezigheid-op-seksfeestje-in-brussel~ab43ad0f/">caught him</a> fleeing from sex party at gay bar, <A href="https://telex.hu/kulfold/2020/12/01/brusszeli-ugyeszseg-szajer-taskajabol-kerult-elo-a-drog">carrying drugs</a>
 				</p>
 			</div><!-- current -->
 			<div id="previous">
