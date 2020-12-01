@@ -122,7 +122,7 @@
 					
 				<p>Latest winner:
 					<img src="jozsef_szajer2.jpg" />
-					MEP <a href="https://telex.hu/kulfold/2020/12/01/brusszel-szex-kepviselo">József Szàjer</a> (<a href="https://en.wikipedia.org/wiki/Fidesz">Fidesz</a>), Dec. 1, 2020
+					MEP <a href="https://telex.hu/kulfold/2020/12/01/brusszel-szex-kepviselo">József Szájer</a> (<a href="https://en.wikipedia.org/wiki/Fidesz">Fidesz</a>), Dec. 1, 2020
 				</p>
 				<p>
 					<!-- <a href="#stars"><img src="rainbow_star.jpg" /></a>  <img src="half_star.png" /> -->
