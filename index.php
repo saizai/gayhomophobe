@@ -121,7 +121,7 @@
 				</p>
 					
 				<p>Latest winner:
-					<img src="jozsef_szajer2.jpg" />
+					<a href="https://commons.wikimedia.org/wiki/File:J%C3%B3zsef_Sz%C3%A1jer_01.JPG"><img src="jozsef_szajer2.jpg" /></a>
 					MEP <a href="https://telex.hu/kulfold/2020/12/01/brusszel-szex-kepviselo">József Szájer</a> (<a href="https://en.wikipedia.org/wiki/Fidesz">Fidesz</a>), Dec. 1, 2020
 				</p>
 				<p>
@@ -138,7 +138,7 @@
 							<th scope="col">Name</th>
 							<th scope="col">Date</th>
 							<th scope="col">Days held:</th>
-							<th scope="col" class="reason">Reaction to outing</th>
+							<th scope="col" class="reason">Summary</th>
 						</tr>
 					</thead>
 					<tbody>
@@ -498,6 +498,9 @@
 								<li><a href="http://www.youtube.com/watch?v=HZmHC75FDqQ">Ted Haggard</a>, <a href="http://www.youtube.com/watch?v=IlnQZVTAcRc">George Rekers</a>, and <a href="http://www.youtube.com/watch?v=GIsLFjWCTsk">Larry Craig</a> by <a href="http://royzimmerman.com/">Roy Zimmerman</a></li>
 								<li><a href="http://www.sharingmachine.com/about.php">Drew and Natalie Dee</a>'s <a href="http://www.marriedtothesea.com/090507/">"homophobic senator" viral image</a></li>
 								<li><a href="http://www.thestranger.com/seattle/SavageLove">Dan Savage</a>'s <a href="http://www.thestranger.com/SavageLovePodcast/archives/2011/09/06/savage-love-episode-255">podcast</a> re. Sen. Arango</li>
+								<li><A href="https://sapari.ge/wp-content/uploads/2016/07/weinstein2012.pdf">Netta Weinstein, et al., <em>Parental autonomy support and discrepancies between implicit and explicit sexual identities: Dynamics of self-acceptance and defense</em> Journal of Personality and Social Psychology 102.4 (2012): 815</a> (and <a href="https://www.nytimes.com/2012/04/29/opinion/sunday/homophobic-maybe-youre-gay.html">researchers' NY Times explainer</a>)</li>
+								<li><a href="https://sapari.ge/wp-content/uploads/2016/07/adams1996.pdf">Henry E. Adams, Lester W. Wright Jr, and Bethany A. Lohr, <em>Is homophobia associated with homosexual arousal?</em> Journal of abnormal psychology 105.3 (1996): 440</a></li>
+								<!-- <li><a href="https://psycnet.apa.org/record/1986-09062-001">Virginia Greendlinger, <em>Authoritarianism as a predictor of response to heterosexual and homosexual erotica</em>, The High School Journal (1985)</a></li> -->
 						</ul>
 				</p>
 			</span>
