@@ -1,23 +1,7 @@
 gayhomophobe.com maintenance howto:
 
 
-A. SSL - every ~3 months
-===
-
-```
-ssh gayhomophobe@gayhomophobe.com
-cd ~/acme-tiny
-./ssl_sign.sh
-```
-
-1. log in to `https://panel.dreamhost.com/index.cgi?tree=domain.secure&`
-2. 'settings' for gayhomophobe.com
-3. set certificate signing request, certificate, private key per results of ssl_sign
-4. intermediate cert shouldn't require update unless Let's Encrypt has an update
-
-
-
-B. Twitter monitoring
+A. Twitter monitoring
 ===
 
 1. log in to tweetdeck
@@ -27,7 +11,7 @@ B. Twitter monitoring
 
 
 
-C. Candidate validation
+B. Candidate validation
 ===
 
 a) IGNORE party affiliation etc. Must be individualized assessment.
@@ -141,7 +125,7 @@ Requires major pro-LGBT actions - not just reversal of prior stance, but going a
 
 
 
-D. Update website
+C. Update website
 ===
 
 a) Decide on win date, summary, and links
@@ -199,16 +183,7 @@ Add item, formatted like the rest, with name (no title / affiliation) and primar
 f) Update website
 ---
 
-Double-check new image has `go+r` permissions. May require ssh'ing in after rsync to chmod it.
-
-E.g. `sync.sh` (make local copy outside of repo; should work from another directory):
-
-```
-git -C ~/path/to/gayhomophobe.com/ add ~/path/to/gayhomophobe.com/
-git -C ~/path/to/gayhomophobe.com/ commit -am "update"
-git -C ~/path/to/gayhomophobe.com/ push
-rsync -vrSzhPc --exclude="- .git" ~/path/to/gayhomophobe.com/ gayhomophobe@gayhomophobe.com:~/gayhomophobe.com
-```
+Deployment will be done automatically when you push to master.
 
 Test website to make sure it works properly - image displayed, previous-winners table looks good, time-since updated, format not broken, etc.
 
