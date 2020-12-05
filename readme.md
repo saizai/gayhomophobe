@@ -183,16 +183,7 @@ Add item, formatted like the rest, with name (no title / affiliation) and primar
 f) Update website
 ---
 
-Double-check new image has `go+r` permissions. May require ssh'ing in after rsync to chmod it.
-
-E.g. `sync.sh` (make local copy outside of repo; should work from another directory):
-
-```
-git -C ~/path/to/gayhomophobe.com/ add ~/path/to/gayhomophobe.com/
-git -C ~/path/to/gayhomophobe.com/ commit -am "update"
-git -C ~/path/to/gayhomophobe.com/ push
-rsync -vrSzhPc --exclude="- .git" ~/path/to/gayhomophobe.com/ gayhomophobe@gayhomophobe.com:~/gayhomophobe.com
-```
+Deployment will be done automatically when you push to master.
 
 Test website to make sure it works properly - image displayed, previous-winners table looks good, time-since updated, format not broken, etc.
 
