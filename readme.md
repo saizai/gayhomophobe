@@ -1,23 +1,7 @@
 gayhomophobe.com maintenance howto:
 
 
-A. SSL - every ~3 months
-===
-
-```
-ssh gayhomophobe@gayhomophobe.com
-cd ~/acme-tiny
-./ssl_sign.sh
-```
-
-1. log in to `https://panel.dreamhost.com/index.cgi?tree=domain.secure&`
-2. 'settings' for gayhomophobe.com
-3. set certificate signing request, certificate, private key per results of ssl_sign
-4. intermediate cert shouldn't require update unless Let's Encrypt has an update
-
-
-
-B. Twitter monitoring
+A. Twitter monitoring
 ===
 
 1. log in to tweetdeck
@@ -27,7 +11,7 @@ B. Twitter monitoring
 
 
 
-C. Candidate validation
+B. Candidate validation
 ===
 
 a) IGNORE party affiliation etc. Must be individualized assessment.
@@ -141,7 +125,7 @@ Requires major pro-LGBT actions - not just reversal of prior stance, but going a
 
 
 
-D. Update website
+C. Update website
 ===
 
 a) Decide on win date, summary, and links
