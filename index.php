@@ -144,7 +144,7 @@
 					<tbody>
 						<tr>
 							<td><img src="aaron_schock.jpg"/></td>
-							<td>Rep. <a href="https://aschock.net">Aaron Schock</a> (<a href="http://en.wikipedia.org/wiki/Republican_Party_(United_States)">R</a>)</td>
+							<td>Rep. <a href="https://web.archive.org/web/20201201005043/https://aschock.net/">Aaron Schock</a> (<a href="http://en.wikipedia.org/wiki/Republican_Party_(United_States)">R</a>)</td>
 							<td>March 5, 2020</td>
 							<td>271</td>
 							<td class="reason"><a href="#stars"><img src="rainbow_star.jpg" /></a>
@@ -167,7 +167,7 @@
 						</tr>
 						<tr>
 							<td><img src="david_matheson.jpg"/></td>
-							<td><a href="https://truthwinsout.org/pressrelease/2019/01/41364/">David Matheson</a> (<a href="https://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints">LDS</a>)</td>
+							<td><a href="https://web.archive.org/web/20191219023649/https://truthwinsout.org/pressrelease/2019/01/41364/">David Matheson</a> (<a href="https://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints">LDS</a>)</td>
 							<td>Jan. 20, 2019</td>
 							<td>185</td>
 							<td class="reason"><a href="#stars"><img src="half_star.png" /></a>
@@ -182,7 +182,7 @@
 						</tr>
 						<tr>
 							<td><img src="norman_goldwasser.jpg" /></td>
-							<td>Dr. <a href="https://truthwinsout.org/news/2018/11/41044/">Norman Goldwasser</a></td>
+							<td>Dr. <a href="https://web.archive.org/web/20190125011751/https://truthwinsout.org/news/2018/11/41044/">Norman Goldwasser</a></td>
 							<td>Nov. 2, 2018</td>
 							<td>78</td>
 							<td class="reason"><a href="#stars"><img src="half_star.png" /></a>
@@ -200,14 +200,14 @@
 							<td>OK. Sen. <a href="http://kfor.com/2017/03/16/oklahoma-state-senator-ralph-shortey-turns-himself-in-after-being-charged-with-engaging-in-child-prostitution/">Ralph Shortey</a> (<a href="https://en.wikipedia.org/wiki/Oklahoma_Republican_Party">R</a>)</td>
 							<td>March 16, 2017</td>
 							<td>358</td>
-							<td>charged with <a href="https://localtvkfor.files.wordpress.com/2017/03/17-08441-redacted-report.pdf">3 felonies</a> for soliciting teen male prostitute, <a href="http://newsok.com/article/5572707">pled guilty</a> to child sex trafficking to get child porn charges dropped; <a href="http://newsok.com/article/5542642">resigned</a> after being <a href="http://webserver1.lsb.state.ok.us/cf_pdf/2017-18%20INT/SRES/SR7%20INT.PDF">suspended</a>; <a href="https://www.youtube.com/watch?v=25-m_mktoBM">body cam</a> &amp; <a href="https://www.youtube.com/watch?v=WJQ6_khlxnc">interrogation</a> video released</td>
+							<td>charged with <a href="https://web.archive.org/web/20191105003846/https://localtvkfor.files.wordpress.com/2017/03/17-08441-redacted-report.pdf">3 felonies</a> for soliciting teen male prostitute, <a href="http://newsok.com/article/5572707">pled guilty</a> to child sex trafficking to get child porn charges dropped; <a href="http://newsok.com/article/5542642">resigned</a> after being <a href="http://webserver1.lsb.state.ok.us/cf_pdf/2017-18%20INT/SRES/SR7%20INT.PDF">suspended</a>; <a href="https://www.youtube.com/watch?v=25-m_mktoBM">body cam</a> &amp; <a href="https://www.youtube.com/watch?v=WJQ6_khlxnc">interrogation</a> video released</td>
 						</tr>
 						<tr>
 							<td><img src="kevin_kanouse.png" /></td>
 							<td>Bp. <a href="http://www.huffingtonpost.com/entry/lutheran-bishop-comes-out-as-gay-after_55b6637ce4b0074ba5a54ac5">Kevin Kanouse</a> (<a href="http://www.elca.org/">ELCA</a>)</td>
 							<td>July 27, 2015</td>
 							<td>598</td>
-							<td class="reason"><a href="#stars"><img src="rainbow_star.jpg" /></a><a href="https://ntnl.org/bp-kanouses-letter-from-july-18-2015/">came out</a> voluntarily to <a href="https://ntnl.org/why-now-why-the-youth-gathering/">Evangelical Youth Gathering</a></td>
+							<td class="reason"><a href="#stars"><img src="rainbow_star.jpg" /></a><a href="https://web.archive.org/web/20150905153211/https://www.ntnl.org/bp-kanouses-letter-from-july-18-2015/">came out</a> voluntarily to <a href="https://web.archive.org/web/20160112230134/https://ntnl.org/why-now-why-the-youth-gathering/">Evangelical Youth Gathering</a></td>
 						</tr>
 						<tr>
 							<td><img src="dennis_hastert.jpg" /></td>
@@ -218,7 +218,7 @@
 						</tr>
 						<tr>
 							<td><img src="randy_boehning.jpg" /></td>
-							<td>N.D. Rep. <a href="http://www.inforum.com/news/3732441-fargo-lawmaker-sent-explicit-photo-claims-disclosure-was-payback-vote-gay-rights-bill/">Randy Boehning</a> (<a href="https://en.wikipedia.org/wiki/North_Dakota_Republican_Party">R</a>)</td>
+							<td>N.D. Rep. <a href="https://web.archive.org/web/20180804124202/http://www.inforum.com/news/3732441-fargo-lawmaker-sent-explicit-photo-claims-disclosure-was-payback-vote-gay-rights-bill">Randy Boehning</a> (<a href="https://en.wikipedia.org/wiki/North_Dakota_Republican_Party">R</a>)</td>
 							<td>April 27, 2015</td>
 							<td>39</td>
 							<td class="reason"><a href="#stars"><img src="half_star.png" /></a> outed on Grindr after voting against anti-discrimination bill; acknowledged it was him</td>
@@ -258,7 +258,7 @@
 							<td>Cardinal <a href="http://www.guardian.co.uk/world/2013/feb/23/cardinal-keith-o-brien-accused-inappropriate">Keith O'Brien</a> (<a href="https://en.wikipedia.org/wiki/Roman_Catholic">RC</a>)</td>
 							<td>Feb 23, 2013</td>
 							<td>60</td>
-							<td class="reason"><a href="http://www.telegraph.co.uk/comment/9121424/We-cannot-afford-to-indulge-this-madness.html">anti-gay</a> cardinal "used night prayers as an excuse for inappropriate contact" with subordinates; forced to <a href="http://www.guardian.co.uk/world/2013/feb/25/cardinal-obrien-resigns-full-statements">resign</a> by retiring pope, initial denials followed by <a href="http://www.scmo.org/articles/statement-from-cardinal-obrien.html">confession</a></td>
+							<td class="reason"><a href="http://www.telegraph.co.uk/comment/9121424/We-cannot-afford-to-indulge-this-madness.html">anti-gay</a> cardinal "used night prayers as an excuse for inappropriate contact" with subordinates; forced to <a href="http://www.guardian.co.uk/world/2013/feb/25/cardinal-obrien-resigns-full-statements">resign</a> by retiring pope, initial denials followed by <a href="https://web.archive.org/web/20140111050304/http://scmo.org/articles/statement-from-cardinal-obrien.html">confession</a></td>
 						</tr>
 						<tr>
 							<td><img src="ryan_muehlhauser.jpg"/></td>
@@ -269,11 +269,11 @@
 						</tr>
 						<tr>
 							<td><img src="zach_wyatt.jpg"/></td>
-							<td>MO. Rep. <a href="http://thenewcivilrightsmovement.com/gop-lawmaker-comes-out-as-gay-then-comes-out-against-dont-say-gay-bill/politics/2012/05/02/38922">Zach Wyatt</a> (<a href="https://secure.wikimedia.org/wikipedia/en/wiki/Republican_Party_(United_States)">R</a>)</td>
+							<td>MO. Rep. <a href="https://web.archive.org/web/20141021045615/http://thenewcivilrightsmovement.com/gop-lawmaker-comes-out-as-gay-then-comes-out-against-dont-say-gay-bill/politics/2012/05/02/38922">Zach Wyatt</a> (<a href="https://secure.wikimedia.org/wikipedia/en/wiki/Republican_Party_(United_States)">R</a>)</td>
 							<td>May 2, 2012</td>
 							<td>188</td>
 							<td class="reason"><a href="#stars"><img src="rainbow_star.jpg"/></a>
-								<a href="http://www.youtube.com/watch?v=k4koieDcoXE">came out</a> voluntarily to <a href="http://www.progressmissouri.org/rep-zach-wyatt-r-kirksville-hb2051">oppose</a> "Don't Say Gay" bill; in office until 2013, withdrew from re-election to study marine biology</td>
+								<a href="http://www.youtube.com/watch?v=k4koieDcoXE">came out</a> voluntarily to <a href="https://web.archive.org/web/20120901110906/www.progressmissouri.org/rep-zach-wyatt-r-kirksville-hb2051">oppose</a> "Don't Say Gay" bill; in office until 2013, withdrew from re-election to study marine biology</td>
 						</tr>
 						<tr>
 							<td><img src="jeremy_marks.jpg"/></td>
@@ -296,7 +296,7 @@
 							<td>Sheriff <a href="http://slog.thestranger.com/slog/archives/2012/02/18/conservative-gop-arizona-sheriffand-mitt-romney-az-campaign-co-chairpledges-to-deport-illegal-immigrants">Paul Babeu</a> (<a href="https://secure.wikimedia.org/wikipedia/en/wiki/Republican_Party_(United_States)">R</a>)</td>
 							<td>February 16, 2012</td>
 							<td>43</td>
-							<td class="reason"><a href="#stars"><img src="rainbow_star.jpg"/></a> <a href="http://tpmmuckraker.talkingpointsmemo.com/2012/02/arizona_sheriff_paul_babeu_angrily_denies_ex-boyfr.php">came out</a> and <a href="http://www.towleroad.com/2012/02/babeublitzer.html">spoke in favor</a> of same-sex marriage after <a href="http://www.phoenixnewtimes.com/2012-02-16/news/paul-babeu-s-mexican-ex-lover-says-sheriff-s-attorney-threatened-him-with-deportation/">threatened ex-boyfriend</a> got a lawyer</td>
+							<td class="reason"><a href="#stars"><img src="rainbow_star.jpg"/></a> <a href="https://web.archive.org/web/20120219193538/http://tpmmuckraker.talkingpointsmemo.com/2012/02/arizona_sheriff_paul_babeu_angrily_denies_ex-boyfr.php">came out</a> and <a href="http://www.towleroad.com/2012/02/babeublitzer.html">spoke in favor</a> of same-sex marriage after <a href="http://www.phoenixnewtimes.com/2012-02-16/news/paul-babeu-s-mexican-ex-lover-says-sheriff-s-attorney-threatened-him-with-deportation/">threatened ex-boyfriend</a> got a lawyer</td>
 						</tr>
 						<tr>
 							<td><img src="michael_berry.jpg"/></td>
@@ -314,7 +314,7 @@
 						</tr>
 						<tr>
 							<td><img src="john_smid.jpg" /></td>
-							<td><a href="http://thinkprogress.org/lgbt/2011/10/11/340335/former-ex-gay-ministry-leader-comes-out-recants-previous-teachings/">John Smid</a> (ex <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Love_In_Action">LIA</a>)</td>
+							<td><a href="https://web.archive.org/web/20130124100726/https://thinkprogress.org/lgbt/2011/10/11/340335/former-ex-gay-ministry-leader-comes-out-recants-previous-teachings/">John Smid</a> (ex <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Love_In_Action">LIA</a>)</td>
 							<td>October 11, 2011</td>
 							<td>65</td>
 							<td class="reason"><a href="#stars"><img src="rainbow_star.jpg"/></a> <a href="http://www.gracerivers.com/gays-repent/">came out</a> voluntarily, now advocating ex-ex-gay</td>
@@ -338,7 +338,7 @@
 							<td>Sen. <a href="http://en.wikipedia.org/wiki/Roberto_Arango#Nude_pictures_scandal">Roberto Arango</a> (<a href="http://en.wikipedia.org/wiki/Puerto_Rican_Republican_Party">R</a> / <a href="http://en.wikipedia.org/wiki/New_Progressive_Party_of_Puerto_Rico">NPP</a>)</td>
 							<td>Aug. 29, 2011</td>
 							<td>13</td>
-							<td class="reason"><img src="half_star.png"/> resigned, denial: "documenting weight loss"; <a href="http://www.elnuevodia.com/admitesuhomosexualidadrobertoarango-1726756.html">came out</a> 2.5 years later</td>
+							<td class="reason"><img src="half_star.png"/> resigned, denial: "documenting weight loss"; <a href="https://web.archive.org/web/20140310200219/http://www.elnuevodia.com/admitesuhomosexualidadrobertoarango-1726756.html">came out</a> 2.5 years later</td>
 						</tr>
 						<tr>
 							<td><img src="philip_hinkle.jpg"/></td>
@@ -366,7 +366,7 @@
 							<td>Chm. <a href="http://en.wikipedia.org/wiki/Ken_Mehlman#Coming_out">Ken Mehlman</a>  (<a href="http://en.wikipedia.org/wiki/Republican_Party_(United_States)">R</a>)</td>
 							<td>Aug. 26, 2010</td>
 							<td>26</td>
-							<td class="reason"><a href="#stars"><img src="rainbow_star.jpg"/><img src="rainbow_star.jpg"/></a> came out voluntarily, resigned, now <a href="http://www.projectrightside.com/">advocating for gay rights</a>; organized SCOTUS briefs <a href="https://www.scribd.com/document/127834199/Perry-Amicus-Brief-of-Mehlman-et-al">pro same-sex marriage</a> (<a href="http://sblog.s3.amazonaws.com/wp-content/uploads/2015/03/14-556_Kenneth_B_Mehlman-3.pdf">twice</a>) &amp; <a href="https://www.supremecourt.gov/DocketPDF/17/17-1618/106895/20190703101202990_5317955_1.PDF">against anti-gay discrimination</a></td>
+							<td class="reason"><a href="#stars"><img src="rainbow_star.jpg"/><img src="rainbow_star.jpg"/></a> came out voluntarily, resigned, now <a href="https://web.archive.org/web/20201127193611/http://www.projectrightside.com/">advocating for gay rights</a>; organized SCOTUS briefs <a href="https://www.scribd.com/document/127834199/Perry-Amicus-Brief-of-Mehlman-et-al">pro same-sex marriage</a> (<a href="http://sblog.s3.amazonaws.com/wp-content/uploads/2015/03/14-556_Kenneth_B_Mehlman-3.pdf">twice</a>) &amp; <a href="https://www.supremecourt.gov/DocketPDF/17/17-1618/106895/20190703101202990_5317955_1.PDF">against anti-gay discrimination</a></td>
 						</tr>
 						<tr>
 							<td><img src="george_rekers.jpg"/></td>
@@ -394,7 +394,7 @@
 							<td><a href="http://newsandtribune.com/clarkcounty/x519371512/Glenn-Murphy-Jr-charged-with-class-B-felony">Glenn Murphy, Jr.</a> (<a href="http://en.wikipedia.org/wiki/Republican_Party_(United_States)">R</a>)</td>
 							<td>Nov. 9, 2007</td>
 							<td>317</td>
-							<td class="reason">resigned for "business opportunity"; <a href="https://web.archive.org/web20181207232621/http://www.wdrb.com/our-apologies">sentenced</a> to 6 years in prison (4 years suspended) for performing non-consensual fellatio</td>
+							<td class="reason">resigned for "business opportunity"; <a href="https://web.archive.org/web/20181207232621/http://www.wdrb.com/our-apologies">sentenced</a> to 6 years in prison (4 years suspended) for performing non-consensual fellatio</td>
 						</tr>
 						<tr>
 							<td><img src="richard_curtis.jpg"></td>
@@ -482,7 +482,7 @@
 					<span>
 						<p><a href="http://www.truthwinsout.org/donate"><img src="truthwinsout.gif" alt="Truth Wins Out" height="32"/></a> is an organization fighting the ex-gay bullshit espoused by so many homophobic closet cases in power.</p>
 						<p>You should consider <a href="http://www.truthwinsout.org/donate">giving them a donation</a>.</p>
-			<p>We <a href="http://www.truthwinsout.org/news/2011/10/19404/">donated about $1900 to TWO</a>, from ad revenue. (Thanks, <a href="https://plus.google.com/114958356461289458353/about">Lee</a>, for your help!) Ads have since been removed.</p>
+			<p>We <a href="https://web.archive.org/web/20111220225104/http://www.truthwinsout.org/news/2011/10/19404/">donated about $1900 to TWO</a>, from ad revenue. (Thanks, <a href="https://plus.google.com/114958356461289458353/about">Lee</a>, for your help!) Ads have since been removed.</p>
 					</span>
 				</div><!-- explanation -->
 			</div><!-- stars -->
