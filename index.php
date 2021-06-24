@@ -156,7 +156,9 @@
 							<td>Aug. 30, 2019</td>
 							<td>188</td>
 							<td class="reason"><a href="#stars"><img src="rainbow_star.jpg" /></a>
-								<a href="https://hopeforwholeness.org/mckrae-game/">founder</a> of Southern Baptist "conversion therapy" organization came out ex-ex-gay; wants "all ex-gay ministry dismantled"</td>
+								<a href="https://hopeforwholeness.org/mckrae-game/">founder</a> of Southern Baptist "conversion therapy" organization came out ex-ex-gay; wants "all ex-gay ministry dismantled"<br/>
+								<a href="https://www.youtube.com/watch?v=6TlV5GDOT8w">McKrae Game's full interview with Truth Wins Out</a>
+							</td>
 						</tr>
 						<tr>
 							<td><img src="bill_sanderson.jpg"/></td>
@@ -242,7 +244,9 @@
 							<td><a href="http://exodusinternational.org/2013/06/i-am-sorry/">Alan Chambers</a> (<a href="http://exodusinternational.org/">EI</a>)</td>
 							<td>June 20, 2013</td>
 							<td>143</td>
-							<td class="reason"><a href="#stars"><img src="rainbow_star.jpg" /></a> "ex-gay" ministry leader <a href="http://exodusinternational.org/2013/06/watch-alan-manning-chambers-opening-address-at-the-38th-annual-exodus-freedom-conference/">formally apologized</a> for damage done by Exodus</td>
+							<td class="reason"><a href="#stars"><img src="rainbow_star.jpg" /></a> "ex-gay" ministry leader <a href="http://exodusinternational.org/2013/06/watch-alan-manning-chambers-opening-address-at-the-38th-annual-exodus-freedom-conference/">formally apologized</a> for damage done by Exodus
+								<a href="https://www.youtube.com/watch?v=yhyjMafWbLg">Alan Chambers' full interview with Truth Wins Out</a>
+							</td>
 						</tr>
 						<tr>
 							<td><img src="john_paulk.jpg"/></td>
@@ -317,7 +321,9 @@
 							<td><a href="https://web.archive.org/web/20130124100726/https://thinkprogress.org/lgbt/2011/10/11/340335/former-ex-gay-ministry-leader-comes-out-recants-previous-teachings/">John Smid</a> (ex <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Love_In_Action">LIA</a>)</td>
 							<td>October 11, 2011</td>
 							<td>65</td>
-							<td class="reason"><a href="#stars"><img src="rainbow_star.jpg"/></a> <a href="http://www.gracerivers.com/gays-repent/">came out</a> voluntarily, now advocating ex-ex-gay</td>
+							<td class="reason"><a href="#stars"><img src="rainbow_star.jpg"/></a> <a href="http://www.gracerivers.com/gays-repent/">came out</a> voluntarily, now advocating ex-ex-gay<br/>
+								<a href="https://www.youtube.com/watch?v=enDJhqUdfoU">John Smid's full interview with Truth Wins Out</a>
+							</td>
 						</tr>
 						<tr>
 							<td><img src="ian_dempsey.jpg"/></td>
