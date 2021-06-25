@@ -321,7 +321,7 @@
 							<td><a href="https://web.archive.org/web/20130124100726/https://thinkprogress.org/lgbt/2011/10/11/340335/former-ex-gay-ministry-leader-comes-out-recants-previous-teachings/">John Smid</a> (ex <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Love_In_Action">LIA</a>)</td>
 							<td>October 11, 2011</td>
 							<td>65</td>
-							<td class="reason"><a href="#stars"><img src="rainbow_star.jpg"/></a> <a href="http://www.gracerivers.com/gays-repent/">came out</a> voluntarily, now advocating ex-ex-gay;
+							<td class="reason"><a href="#stars"><img src="rainbow_star.jpg"/></a> <a href="https://web.archive.org/web/20111014063337/http://www.gracerivers.com/gays-repent/">came out</a> voluntarily, now advocating ex-ex-gay;
 								<a href="https://www.youtube.com/watch?v=enDJhqUdfoU">full interview with Truth Wins Out</a>
 							</td>
 						</tr>
