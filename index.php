@@ -202,7 +202,7 @@
 							<td>OK. Sen. <a href="http://kfor.com/2017/03/16/oklahoma-state-senator-ralph-shortey-turns-himself-in-after-being-charged-with-engaging-in-child-prostitution/">Ralph Shortey</a> (<a href="https://en.wikipedia.org/wiki/Oklahoma_Republican_Party">R</a>)</td>
 							<td>March 16, 2017</td>
 							<td>358</td>
-							<td>charged with <a href="https://web.archive.org/web/20191105003846/https://localtvkfor.files.wordpress.com/2017/03/17-08441-redacted-report.pdf">3 felonies</a> for soliciting teen male prostitute, <a href="http://newsok.com/article/5572707">pled guilty</a> to child sex trafficking to get child porn charges dropped; <a href="http://newsok.com/article/5542642">resigned</a> after being <a href="http://webserver1.lsb.state.ok.us/cf_pdf/2017-18%20INT/SRES/SR7%20INT.PDF">suspended</a>; <a href="https://www.youtube.com/watch?v=25-m_mktoBM">body cam</a> &amp; <a href="https://www.youtube.com/watch?v=WJQ6_khlxnc">interrogation</a> video released</td>
+							<td>charged with <a href="https://web.archive.org/web/20191105003846/https://localtvkfor.files.wordpress.com/2017/03/17-08441-redacted-report.pdf">3 felonies</a> for soliciting teen male prostitute, <a href="http://newsok.com/article/5572707">pled guilty</a> to child sex trafficking to get child porn charges dropped; <a href="http://newsok.com/article/5542642">resigned</a> after being <a href="http://webserver1.lsb.state.ok.us/cf_pdf/2017-18%20INT/SRES/SR7%20INT.PDF">suspended</a>; <a href="https://www.youtube.com/watch?v=5ZVytfx2d3w">body cam</a> &amp; <a href="https://www.youtube.com/watch?v=WJQ6_khlxnc">interrogation</a> video released</td>
 						</tr>
 						<tr>
 							<td><img src="kevin_kanouse.png" /></td>
