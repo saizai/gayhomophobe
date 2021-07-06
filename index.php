@@ -111,26 +111,26 @@
 		<div id="container">
 			<div id="current">
 				<?php
-					$cur = floor((time() - mktime(0,0,0, 12, 1, 2020)) / (60*60*24)); // 0 0 0 M D Y
-					$days = array($cur, 271, 188, 37, 185, 1, 78, 238, 358, 52, 39, 369, 166, 143, 57, 60, 107, 188, 12, 23, 43, 1, 60, 65, 26, 4, 13, 17, 133, 191, 26, 113, 56, 534, 317, 10, 94, 46, 220, 35, 509, 223, 25);
+					$cur = floor((time() - mktime(0,0,0, 7, 2, 2021)) / (60*60*24)); // 0 0 0 M D Y
+					$days = array($cur, 213, 271, 188, 37, 185, 1, 78, 238, 358, 52, 39, 369, 166, 143, 57, 60, 107, 188, 12, 23, 43, 1, 60, 65, 26, 4, 13, 17, 133, 191, 26, 113, 56, 534, 317, 10, 94, 46, 220, 35, 509, 223, 25);
 					$avg = floor(array_sum($days) / count($days));
 				?>
 				<p>
-						# days since the last prominent homophobe was caught in a gay sex scandal: <!-- came out pro-gay -->
-				  <div id="days"><?= $cur ?></div>
+					# days since the last prominent homophobe was caught in a gay sex scandal: <!-- came out pro-gay -->
+					<div id="days"><?= $cur ?></div>
 				</p>
 					
 				<p>Latest winner:
-					<a href="https://commons.wikimedia.org/wiki/File:J%C3%B3zsef_Sz%C3%A1jer_01.JPG"><img src="jozsef_szajer2.jpg" /></a>
-					MEP <a href="https://telex.hu/kulfold/2020/12/01/brusszel-szex-kepviselo">József Szájer</a> (<a href="https://en.wikipedia.org/wiki/Fidesz">Fidesz</a>), Dec. 1, 2020
+					<a href="https://commons.wikimedia.org/wiki/File:Lille_-_Monseigneur_Tony_Anatrella_-_4.jpg"><img src="tony_anatrella.jpg" /></a>
+					Mgr. <a href="https://www.pinknews.co.uk/2021/07/02/vatican-gay-abuse-tony-anatrella/">Tony Anatrella</a> (<a href="https://en.wikipedia.org/wiki/Catholic_Church">RCC</a>), July 2, 2021
 				</p>
 				<p>
 					<!-- <a href="#stars"><img src="rainbow_star.jpg" /></a>  <img src="half_star.png" /> -->
-					far-right party cofounder, who <A href="https://www.euractiv.com/section/future-eu/news/hungary-s-new-constitution-family-friendly-hostile-to-gays/">wrote anti-LGBT amendment</a> to Hungarian constitution, <a href="https://szajer.fidesz-eu.hu/hu/szajer-jozsef-nyilatkozata-statement-of-szajer-jozsef/">resigned</a> for violating COVID-19 lockdown after police <a href="https://www.hln.be/brussel/hongaars-europarlementslid-59-neemt-ontslag-na-aanwezigheid-op-seksfeestje-in-brussel~ab43ad0f/">caught him</a> fleeing from sex party at gay bar, <A href="https://telex.hu/kulfold/2020/12/01/brusszeli-ugyeszseg-szajer-taskajabol-kerult-elo-a-drog">carrying drugs</a>
+					<a href="https://en.wikipedia.org/wiki/Tony_Anatrella">anti-LGBT French Catholic priest and psychotherapist</a>, who claimed to "cure" victims' homosexuality by having sex with them, defrocked and <a href="https://www.ncronline.org/news/accountability/french-priest-former-vatican-adviser-face-church-trial-abuse-claims">facing Church trial</a>
 				</p>
 			</div><!-- current -->
 			<div id="previous">
-				<h2>42 previous winners <span style="font-size: 0.8em;">(avg days held: <?= $avg ?>)</span></h2>
+				<h2>43 previous winners <span style="font-size: 0.8em;">(avg days held: <?= $avg ?>)</span></h2>
 				<table>
 					<thead>
 						<tr>
@@ -143,13 +143,22 @@
 					</thead>
 					<tbody>
 						<tr>
+							<td><a href="https://commons.wikimedia.org/wiki/File:J%C3%B3zsef_Sz%C3%A1jer_01.JPG"><img src="jozsef_szajer2.jpg" /></a></td>
+							<td>MEP <a href="https://telex.hu/kulfold/2020/12/01/brusszel-szex-kepviselo">József Szájer</a> (<a href="https://en.wikipedia.org/wiki/Fidesz">Fidesz</a>)</td>
+							<td>Dec. 1, 2020</td>
+							<td>213</td>
+							<td class="reason">
+								far-right party cofounder, who <A href="https://www.euractiv.com/section/future-eu/news/hungary-s-new-constitution-family-friendly-hostile-to-gays/">wrote anti-LGBT amendment</a> to Hungarian constitution, <a href="https://szajer.fidesz-eu.hu/hu/szajer-jozsef-nyilatkozata-statement-of-szajer-jozsef/">resigned</a> for violating COVID-19 lockdown after police <a href="https://www.hln.be/brussel/hongaars-europarlementslid-59-neemt-ontslag-na-aanwezigheid-op-seksfeestje-in-brussel~ab43ad0f/">caught him</a> fleeing from sex party at gay bar, <A href="https://telex.hu/kulfold/2020/12/01/brusszeli-ugyeszseg-szajer-taskajabol-kerult-elo-a-drog">carrying drugs</a>
+							</td>
+						</tr>
+						<tr>
 							<td><img src="aaron_schock.jpg"/></td>
 							<td>Rep. <a href="https://web.archive.org/web/20201201005043/https://aschock.net/">Aaron Schock</a> (<a href="http://en.wikipedia.org/wiki/Republican_Party_(United_States)">R</a>)</td>
 							<td>March 5, 2020</td>
 							<td>271</td>
 							<td class="reason"><a href="#stars"><img src="rainbow_star.jpg" /></a>
 								<a href="https://assets2.hrc.org/files/assets/resources/113thCongressionalScorecard_web_REV.pdf">consistently</a> <a href="https://assets2.hrc.org/files/assets/resources/112thCongressionalScorecard_2012.pdf">anti-LGBT</a> <a href="https://assets2.hrc.org/files/assets/resources/111thCongressional_Scorecard.pdf">voting</a> ex-Congressman <a href="https://www.instagram.com/aaronschock">jock</a> came out gay &amp; to "support LGBTQ rights" after being <a href="https://www.metroweekly.com/2019/04/former-anti-gay-gop-rep-aaron-schock-allegedly-had-his-hand-down-a-mans-pants-at-coachella/">caught making out with another guy at Coachella</a>, "because of the extraordinary, brave people who had the courage to fight for our rights when I did not"</td>
-	  				</tr>
+	  					</tr>
 						<tr>
 							<td><img src="mckrae_game.jpg"/></td>
 							<td>Rev. <a href="https://www.postandcourier.com/news/conversion-therapy-leader-for-decades-mckrae-game-disavows-movement-he/article_fb56dcfc-c384-11e9-970d-bb9a2a8656c5.html">McKrae Game</a> (<a href="https://hopeforwholeness.org/">HfW</a>)</td>
